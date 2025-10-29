@@ -1,9 +1,5 @@
-<h1>💫 About Me:</h1>
-<p>👨‍💻 MERN Developer <br>  
-🚀 Aspiring Blockchain Developer <br>  
-💡 Always Learning & Growing<br>  
-🌐 Tech Enthusiast <br>  
-📈 Code Wizard in the Making<br>  </p>
+Sup! I'm Ankit.
+I do code for living
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
