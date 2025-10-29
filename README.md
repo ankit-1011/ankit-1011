@@ -34,9 +34,9 @@ Hey 👋, I am *Ankit*, a developer.✨
 
 <img align="right" width="38%" src="https://i.pinimg.com/564x/ea/b1/4b/eab14bc8f56036fb265dd30668a832b6.jpg"/>
 
-  <a href="https://github.com/ankit-1101"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=KAMAL-02&cache_seconds=1800&theme=radical&title_color=ff3068?"></a>
-  <a href="https://github.com/ankit-1101"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=KAMAL-02&cache_seconds=1800&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-  <a href="https://github.com/ankit-1101"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KAMAL-02&cache_seconds=1800&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff3068?"></a>
+  <a href="https://github.com/ankit-1101"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ankit-1101&cache_seconds=1800&theme=radical&title_color=ff3068?"></a>
+  <a href="https://github.com/ankit-1101"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=ankit-1101&cache_seconds=1800&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  <a href="https://github.com/ankit-1101"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-1101&cache_seconds=1800&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff3068?"></a>
 
 ## 📘 My few projects
 
